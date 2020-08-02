@@ -1,12 +1,12 @@
 ## About
 
-I am currently a masters student in Electrical Engineering Department at IIT Bombay with specialisation in Control and Computing. I work as a Project Research Assistant under Prof. Subhasis Chaudhuri in Vision and Image Processing Lab.\
+I am currently a masters student in Electrical Engineering Department at IIT Bombay with specialisation in Control and Computing. I work as a Project Research Assistant under Prof. Subhasis Chaudhuri in Vision and Image Processing Lab.  
 My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision. My work basically focuses on the problems like catastrophic forgetting faced by deep learning networks in realtime situations and development of different strategies to counter such issues.
 
 ## Education
-### <img src="/images/iitb.png" width="40"> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)<br/>              
-Indian Institute of Technology Bombay<br/>           
-Department of Electrical Engineering<br/> 
+### <img src="/images/iitb.png" width="40"> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)\               
+Indian Institute of Technology Bombay\           
+Department of Electrical Engineering\ 
 CPI: 8.45
 
 ### <img src="/images/mec.png" width="40"> BTech Electrical Engineering &nbsp;   &nbsp;   &nbsp; (2013 - 2017)<br/>     
