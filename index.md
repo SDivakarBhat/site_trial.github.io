@@ -6,12 +6,12 @@ My research interests include incremental learning, co-segmentation, few-shot/ze
 ## Education
 ### <img src="/images/iitb.png" width="40"> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)&nbsp;              
 Indian Institute of Technology Bombay&nbsp;        
-Department of Electrical Engineering&nbsp;&nbsp; 
+Department of Electrical Engineering&nbsp;&nbsp;<br/> 
 CPI: 8.45
 
 ### <img src="/images/mec.png" width="40"> BTech Electrical Engineering &nbsp;   &nbsp;   &nbsp; (2013 - 2017)&nbsp;   
 Model Engineering College, Kochi&nbsp;       
-Department of Electrical Engineering&nbsp;&nbsp;
+Department of Electrical Engineering&nbsp;&nbsp;<br/>
 CPI: 8.76
 
 
