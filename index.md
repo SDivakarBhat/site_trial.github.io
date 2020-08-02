@@ -9,7 +9,7 @@ Indian Institute of Technology Bombay&nbsp;
 Department of Electrical Engineering&nbsp;&nbsp;<br/> 
 CPI: 8.45
 
-### <a href="https://www.mec.ac.in" target="_blank"><img src="/images/mec.png" width="40"></a> BTech Electrical Engineering &nbsp;   &nbsp;   &nbsp;  &nbsp;   (2013 - 2017)&nbsp;   
+### <a href="https://www.mec.ac.in" target="_blank"><img src="/images/mec.png" width="40"></a> BTech Electrical Engineering &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;(2013 - 2017)&nbsp;   
 Model Engineering College, Kochi&nbsp;       
 Department of Electrical Engineering&nbsp;&nbsp;<br/>
 CPI: 8.76
