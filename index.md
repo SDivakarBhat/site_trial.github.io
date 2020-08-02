@@ -35,7 +35,7 @@ Guide:Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bomba
 
 ### Other Interests
 * Sketching portraits
-* Anime
+* Watching Anime
 * Trekking
-* Football
+* Playing Football
 
