@@ -35,7 +35,7 @@ Guide:Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bomba
 
 ### Positions of Responsibility
 * Research Assistant for India Trento Advanced Research  Program.
-* Teaching Assistant for GNR 638 course Autumn 2020.
+* Teaching Assistant for GNR 638 course, Autumn 2020.
 * Web admin Vision and Image Processing Lab.
 * Web Design of CMInDS website.
 
