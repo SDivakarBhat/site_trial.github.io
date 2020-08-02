@@ -18,11 +18,11 @@ CPI: 8.76
 
 ## Research Experience
 ### CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Clas-sification  &nbsp;   &nbsp;   &nbsp; (May ’19 - May ’20)&nbsp;
-Guide: Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bombay&nbsp;
-o A faster and better performing continual learning technique for remote sensing image classification.
-o Approach utilised curriculum learning to speed up the training time and also improve the result.
-o Achieved about __19% margin__ above the closest performing existing algorithm on NWPU-RESISC45 dataset.
-o Proposed approach was about __two times faster__ than the baseline algorithm
+Guide: Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
+* A faster and better performing continual learning technique for remote sensing image classification.
+* Approach utilised curriculum learning to speed up the training time and also improve the result.
+* Achieved about __19% margin__ above the closest performing existing algorithm on NWPU-RESISC45 dataset.
+* Proposed approach was about __two times faster__ than the baseline algorithm
 
 
 ```markdown
