@@ -33,6 +33,13 @@ Guide:Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bomba
 ### Publications
 * __S Divakar Bhat__, Biplab Banerjee, Subhasis Chaudhuri, Avik Bhattacharya, ”CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Classification”, (Submitted to _Pattern Recognition_).
 
+### Positions of Responsibility
+* Research Assistant for India Trento Advanced Research  Program.
+* Teaching Assistant for GNR 638 course Autumn 2020.
+* Web admin Vision and Image Processing Lab.
+* Web Design of CMInDS website.
+
+
 ### Other Interests
 * Sketching portraits
 * Watching Anime
