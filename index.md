@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/SDivakarBhat/sdivakarbhat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a masters student in Electrical Engineering Department at IIT Bombay with specialisation in Control and Computing. I work as a Project Research Assistant under Prof. Subhasis Chaudhuri in Vision and Image Processing Lab. My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision. My work basically focuses on the problems like catastrophic forgetting faced by deep learning networks in realtime situations and development of different strategies to counter such issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+### ![iitb](/images/iitb.png) MTech Control and Computing                         Indian Institute of Technology Bombay                   (July 2018 - present)
+Department of Electrical Engineering
+CPI: 8.45
 
-### Markdown
+### ![mec](/images/mec.png) BTech Electrical Engineering                          Model Engineering College, Kochi                        (2013 - 2017)
+Department of Electrical Engineering
+CPI: 8.76
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
