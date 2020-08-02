@@ -5,7 +5,7 @@ My research interests include incremental learning, co-segmentation, few-shot/ze
 
 ## Education
 ### <img src="/images/iitb.png" width="40"> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)     <br />              
-Indian Institute of Technology Bombay  \                
+Indian Institute of Technology Bombay   \                
 Department of Electrical Engineering   \
 CPI: 8.45
 
