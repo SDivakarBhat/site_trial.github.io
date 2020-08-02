@@ -18,7 +18,6 @@ CPI: 8.76
 
 ## Research Experience
 ### CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Classification 
-(May ’19 - May ’20)&nbsp;<br/>
 Guide: Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
 * A faster and better performing continual learning technique for remote sensing image classification.
 * Approach utilised curriculum learning to speed up the training time and also improve the result.
@@ -26,7 +25,6 @@ Guide: Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bomb
 * Proposed approach was about __two times faster__ than the baseline algorithm
 
 ### Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation
-(May ’19- Jan ’20)&nbsp;<br/>
 Guide:Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
 * Designed a novel framework for multi image co-segmentation.
 * Solves small sample problem in co-segmentation using few-shot learning approach.
