@@ -4,12 +4,12 @@ I am currently a masters student in Electrical Engineering Department at IIT Bom
 My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision. My work basically focuses on the problems like catastrophic forgetting faced by deep learning networks in realtime situations and development of different strategies to counter such issues.
 
 ## Education
-### <img src="/images/iitb.png" width="40"> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)&nbsp;              
+### <a href="https://www.iitb.ac.in"><img src="/images/iitb.png" width="40"></a> MTech Control and Computing &nbsp;   &nbsp;   &nbsp; (2018 - present)&nbsp;              
 Indian Institute of Technology Bombay&nbsp;        
 Department of Electrical Engineering&nbsp;&nbsp;<br/> 
 CPI: 8.45
 
-### <img src="/images/mec.png" width="40"> BTech Electrical Engineering &nbsp;   &nbsp;   &nbsp; (2013 - 2017)&nbsp;   
+### <a href="https://www.mec.ac.in"><img src="/images/mec.png" width="40"></a> BTech Electrical Engineering &nbsp;   &nbsp;   &nbsp; (2013 - 2017)&nbsp;   
 Model Engineering College, Kochi&nbsp;       
 Department of Electrical Engineering&nbsp;&nbsp;<br/>
 CPI: 8.76
