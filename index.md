@@ -30,3 +30,12 @@ Guide:Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bomba
 * Solves small sample problem in co-segmentation using few-shot learning approach.
 * Achieved a margin of about 5% above existing state of the art techniques.
 
+### Publications
+* __S Divakar Bhat__, Biplab Banerjee, Subhasis Chaudhuri, Avik Bhattacharya, ”CIRES-NET: Curriculum-drivenIncremental learning Network for Remote Sensing Image Classification”, (Submitted to _Pattern Recognition_)
+
+### Other Interests
+* Sketching portraits
+* Anime
+* Trekking
+* Football
+
