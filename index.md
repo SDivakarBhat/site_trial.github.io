@@ -1,7 +1,7 @@
 ## About
 
 Currently a final year masters student in Electrical Engineering Department at IIT Bombay with specialisation in Control and Computing. I work as a Project Research Assistant under Prof. Subhasis Chaudhuri in Vision and Image Processing Lab.  
-My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision.
+My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision.&nbsp;
 My work basically focuses on the problems like catastrophic forgetting faced by deep learning networks in realtime situations and development of different strategies to counter such issues.
 
 ## Education
