@@ -24,6 +24,11 @@ Guide: Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bomb
 * Achieved about __19% margin__ above the closest performing existing algorithm on NWPU-RESISC45 dataset.
 * Proposed approach was about __two times faster__ than the baseline algorithm
 
+### Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation  &nbsp;   &nbsp;   &nbsp;  (May ’19- Jan ’20)&nbsp;
+Guide:Prof.  Subhasis Chaudhuri, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
+* Designed a novel framework for multi image co-segmentation.
+* Solves small sample problem in co-segmentation using few-shot learning approach.
+* Achieved a margin of about 5% above existing state of the art techniques.
 
 ```markdown
 Syntax highlighted code block
