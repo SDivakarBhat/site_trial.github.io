@@ -1,6 +1,6 @@
 ## About
 
-Currently a final year masters student in Electrical Engineering Department at IIT Bombay with specialisation in Control and Computing. I work as a Project Research Assistant under <a href="https://www.ee.iitb.ac.in/~sc/">Prof. Subhasis Chaudhuri</a> in Vision and Image Processing Lab.  
+Currently a final year masters student in Electrical Engineering Department at IIT Bombay with specialisation in Control and Computing. I work as a Project Research Assistant under <a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Chaudhuri</a> in Vision and Image Processing Lab.  
 My research interests include incremental learning, co-segmentation, few-shot/zero-shot learning and computer vision.
 
 ## Education
@@ -18,15 +18,15 @@ CPI: 8.76
 
 ## Research Experience
 ### CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Classification 
-Guide: <a href="https://www.ee.iitb.ac.in/~sc/">Prof. Subhasis Chaudhuri</a>, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
-Co-Guide: <a href="https://biplab-banerjee.github.io/">Prof. Biplab Banerjee</a>, CSRE, IIT Bombay&nbsp;<br/>
+Guide: <a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Chaudhuri</a>, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
+Co-Guide: <a href="https://biplab-banerjee.github.io/" target="_blank">Prof. Biplab Banerjee</a>, CSRE, IIT Bombay&nbsp;<br/>
 * A faster and better performing continual learning technique for remote sensing image classification.
 * Approach utilised curriculum learning to speed up the training time and also improve the result.
 * Achieved about __19% margin__ above the closest performing existing algorithm on NWPU-RESISC45 dataset.
 * Proposed approach was about __two times faster__ than the baseline algorithm
 
 ### Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation
-Guide:<a href="https://www.ee.iitb.ac.in/~sc/">Prof. Subhasis Chaudhuri</a>, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
+Guide:<a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Chaudhuri</a>, Department of Electrical Engineering, IIT Bombay&nbsp;<br/>
 * Designed a novel framework for multi image co-segmentation.
 * Solves small sample problem in co-segmentation using few-shot learning approach.
 * Achieved a margin of about 5% above existing state of the art techniques.
