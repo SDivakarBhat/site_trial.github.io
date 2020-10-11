@@ -32,9 +32,11 @@ Guide:<a href="https://www.ee.iitb.ac.in/~sc/" target="_blank">Prof. Subhasis Ch
 * Achieved a margin of about 5% above existing state of the art techniques.
 
 ### Publications
-* \*Sayan Banerjee, \*__S Divakar Bhat__, Subhasis Chaudhuri, and Rajbabu Velmurugan, ”Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation”, (Accepted to ICPR-2020). \* equal contribution
+* \*Sayan Banerjee, \*__S Divakar Bhat__, Subhasis Chaudhuri, and Rajbabu Velmurugan, ”Directed Variational Cross-encoder Network for Few-shot Multi-image Co-segmentation”, (Accepted to ICPR-2020). 
 
 * __S Divakar Bhat__, Biplab Banerjee, Subhasis Chaudhuri, Avik Bhattacharya, ”CIRES-NET: Curriculum-driven Incremental learning Network for Remote Sensing Image Classification”, (Under Progress).
+
+* \* denotes equal contribution
 
 ### Positions of Responsibility
 * Research Assistant under the DST project: India-Trento Program For Advanced Research (ITPAR) Phase-IV
